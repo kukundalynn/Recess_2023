@@ -1,0 +1,16 @@
+# Intro to Flask Web Framework
+Flask is used to build web apps and APIs
+Designed to be lightweight and flexible and easy to use 
+Flask follow the WSGI ( Web Server Gateway Interface )
+
+Based on WSGI and the Jinjaz template engine
+
+# Benefits
+Minimalistic and simple
+routing
+template rendering
+HTTP receiver handling
+built in development server 
+Extensibility
+restful support 
+sudo
